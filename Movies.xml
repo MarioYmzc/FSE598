@@ -1,0 +1,361 @@
+<?xml version="1.0" ?>
+<Movies>
+  <Movie>
+    <Title>Coco</Title>
+    <Genre>Animation</Genre>
+    <Director>
+      <Name>L</Name>
+      <Name>e</Name>
+      <Name>e</Name>
+      <Name> </Name>
+      <Name>U</Name>
+      <Name>n</Name>
+      <Name>k</Name>
+      <Name>r</Name>
+      <Name>i</Name>
+      <Name>c</Name>
+      <Name>h</Name>
+    </Director>
+    <Director>
+      <Name>A</Name>
+      <Name>d</Name>
+      <Name>r</Name>
+      <Name>i</Name>
+      <Name>a</Name>
+      <Name>n</Name>
+      <Name> </Name>
+      <Name>M</Name>
+      <Name>o</Name>
+      <Name>l</Name>
+      <Name>i</Name>
+      <Name>n</Name>
+      <Name>a</Name>
+    </Director>
+    <Studio>Pixar Animation Studios</Studio>
+    <Year>2017</Year>
+  </Movie>
+  <Movie>
+    <Title>Finding Nemo</Title>
+    <Genre>Animation</Genre>
+    <Director>
+      <Name>A</Name>
+      <Name>n</Name>
+      <Name>d</Name>
+      <Name>r</Name>
+      <Name>e</Name>
+      <Name>w</Name>
+      <Name> </Name>
+      <Name>S</Name>
+      <Name>t</Name>
+      <Name>a</Name>
+      <Name>n</Name>
+      <Name>t</Name>
+      <Name>o</Name>
+      <Name>n</Name>
+    </Director>
+    <Director>
+      <Name>L</Name>
+      <Name>e</Name>
+      <Name>e</Name>
+      <Name> </Name>
+      <Name>U</Name>
+      <Name>n</Name>
+      <Name>k</Name>
+      <Name>r</Name>
+      <Name>i</Name>
+      <Name>c</Name>
+      <Name>h</Name>
+    </Director>
+    <Studio>Pixar Animation Studios</Studio>
+    <Year>2003</Year>
+  </Movie>
+  <Movie>
+    <Title>Get Out</Title>
+    <Genre>Horror</Genre>
+    <Director>
+      <Name>J</Name>
+      <Name>o</Name>
+      <Name>r</Name>
+      <Name>d</Name>
+      <Name>a</Name>
+      <Name>n</Name>
+      <Name> </Name>
+      <Name>P</Name>
+      <Name>e</Name>
+      <Name>e</Name>
+      <Name>l</Name>
+      <Name>e</Name>
+    </Director>
+    <Studio>Universal Pictures</Studio>
+    <Year>2017</Year>
+  </Movie>
+  <Movie>
+    <Title>Gladiator</Title>
+    <Genre>Action</Genre>
+    <Director>
+      <Name>R</Name>
+      <Name>i</Name>
+      <Name>d</Name>
+      <Name>l</Name>
+      <Name>e</Name>
+      <Name>y</Name>
+      <Name> </Name>
+      <Name>S</Name>
+      <Name>c</Name>
+      <Name>o</Name>
+      <Name>t</Name>
+      <Name>t</Name>
+    </Director>
+    <Studio>DreamWorks/Universal</Studio>
+    <Year>2000</Year>
+  </Movie>
+  <Movie>
+    <Title>Her</Title>
+    <Genre>Romance</Genre>
+    <Director>
+      <Name>S</Name>
+      <Name>p</Name>
+      <Name>i</Name>
+      <Name>k</Name>
+      <Name>e</Name>
+      <Name> </Name>
+      <Name>J</Name>
+      <Name>o</Name>
+      <Name>n</Name>
+      <Name>z</Name>
+      <Name>e</Name>
+    </Director>
+    <Studio>Warner Bros. Pictures</Studio>
+    <Year>2013</Year>
+  </Movie>
+  <Movie>
+    <Title>Inception</Title>
+    <Genre>Action</Genre>
+    <Director>
+      <Name>C</Name>
+      <Name>h</Name>
+      <Name>r</Name>
+      <Name>i</Name>
+      <Name>s</Name>
+      <Name>t</Name>
+      <Name>o</Name>
+      <Name>p</Name>
+      <Name>h</Name>
+      <Name>e</Name>
+      <Name>r</Name>
+      <Name> </Name>
+      <Name>N</Name>
+      <Name>o</Name>
+      <Name>l</Name>
+      <Name>a</Name>
+      <Name>n</Name>
+    </Director>
+    <Studio>Warner Bros. Pictures</Studio>
+    <Year>2010</Year>
+  </Movie>
+  <Movie>
+    <Title>Mad Max</Title>
+    <Genre>Action</Genre>
+    <Director>
+      <Name>G</Name>
+      <Name>e</Name>
+      <Name>o</Name>
+      <Name>r</Name>
+      <Name>g</Name>
+      <Name>e</Name>
+      <Name> </Name>
+      <Name>M</Name>
+      <Name>i</Name>
+      <Name>l</Name>
+      <Name>l</Name>
+      <Name>e</Name>
+      <Name>r</Name>
+    </Director>
+    <Studio>Warner Bros. Pictures</Studio>
+    <Year>2015</Year>
+  </Movie>
+  <Movie>
+    <Title>Parasite</Title>
+    <Genre>Drama</Genre>
+    <Director>
+      <Name>B</Name>
+      <Name>o</Name>
+      <Name>n</Name>
+      <Name>g</Name>
+      <Name> </Name>
+      <Name>J</Name>
+      <Name>o</Name>
+      <Name>o</Name>
+      <Name>n</Name>
+      <Name>-</Name>
+      <Name>h</Name>
+      <Name>o</Name>
+    </Director>
+    <Studio>CJ Entertainment</Studio>
+    <Year>2019</Year>
+  </Movie>
+  <Movie>
+    <Title>Spirited Away</Title>
+    <Genre>Animation</Genre>
+    <Director>
+      <Name>H</Name>
+      <Name>a</Name>
+      <Name>y</Name>
+      <Name>a</Name>
+      <Name>o</Name>
+      <Name> </Name>
+      <Name>M</Name>
+      <Name>i</Name>
+      <Name>y</Name>
+      <Name>a</Name>
+      <Name>z</Name>
+      <Name>a</Name>
+      <Name>k</Name>
+      <Name>i</Name>
+    </Director>
+    <Studio>Studio Ghibli</Studio>
+    <Year>2001</Year>
+  </Movie>
+  <Movie>
+    <Title>Superbad</Title>
+    <Genre>Comedy</Genre>
+    <Director>
+      <Name>G</Name>
+      <Name>r</Name>
+      <Name>e</Name>
+      <Name>g</Name>
+      <Name> </Name>
+      <Name>M</Name>
+      <Name>o</Name>
+      <Name>t</Name>
+      <Name>t</Name>
+      <Name>o</Name>
+      <Name>l</Name>
+      <Name>a</Name>
+    </Director>
+    <Studio>Columbia Pictures</Studio>
+    <Year>2007</Year>
+  </Movie>
+  <Movie>
+    <Title>The Dark Knight</Title>
+    <Genre>Action</Genre>
+    <Director>
+      <Name>C</Name>
+      <Name>h</Name>
+      <Name>r</Name>
+      <Name>i</Name>
+      <Name>s</Name>
+      <Name>t</Name>
+      <Name>o</Name>
+      <Name>p</Name>
+      <Name>h</Name>
+      <Name>e</Name>
+      <Name>r</Name>
+      <Name> </Name>
+      <Name>N</Name>
+      <Name>o</Name>
+      <Name>l</Name>
+      <Name>a</Name>
+      <Name>n</Name>
+    </Director>
+    <Studio>Warner Bros. Pictures</Studio>
+    <Year>2008</Year>
+  </Movie>
+  <Movie>
+    <Title>The Grand Budapest Hotel</Title>
+    <Genre>Comedy</Genre>
+    <Director>
+      <Name>W</Name>
+      <Name>e</Name>
+      <Name>s</Name>
+      <Name> </Name>
+      <Name>A</Name>
+      <Name>n</Name>
+      <Name>d</Name>
+      <Name>e</Name>
+      <Name>r</Name>
+      <Name>s</Name>
+      <Name>o</Name>
+      <Name>n</Name>
+    </Director>
+    <Studio>Fox Searchlight Pictures</Studio>
+    <Year>2014</Year>
+  </Movie>
+  <Movie>
+    <Title>The Great Gatsby</Title>
+    <Genre>Drama</Genre>
+    <Director>
+      <Name>B</Name>
+      <Name>a</Name>
+      <Name>z</Name>
+      <Name> </Name>
+      <Name>L</Name>
+      <Name>u</Name>
+      <Name>h</Name>
+      <Name>r</Name>
+      <Name>m</Name>
+      <Name>a</Name>
+      <Name>n</Name>
+      <Name>n</Name>
+    </Director>
+    <Director>
+      <Name>h</Name>
+      <Name>e</Name>
+      <Name>l</Name>
+      <Name>l</Name>
+      <Name>o</Name>
+      <Name> </Name>
+      <Name>w</Name>
+      <Name>o</Name>
+      <Name>r</Name>
+      <Name>l</Name>
+      <Name>d</Name>
+    </Director>
+    <Studio>Warner Bros. Pictures</Studio>
+    <Year>2013</Year>
+  </Movie>
+  <Movie>
+    <Title>The Shining</Title>
+    <Genre>Horror</Genre>
+    <Director>
+      <Name>S</Name>
+      <Name>t</Name>
+      <Name>a</Name>
+      <Name>n</Name>
+      <Name>l</Name>
+      <Name>e</Name>
+      <Name>y</Name>
+      <Name> </Name>
+      <Name>K</Name>
+      <Name>u</Name>
+      <Name>b</Name>
+      <Name>r</Name>
+      <Name>i</Name>
+      <Name>c</Name>
+      <Name>k</Name>
+    </Director>
+    <Studio>Warner Bros. Pictures</Studio>
+    <Year>1980</Year>
+  </Movie>
+  <Movie>
+    <Title>Toy Story</Title>
+    <Genre>Animation</Genre>
+    <Director>
+      <Name>J</Name>
+      <Name>o</Name>
+      <Name>h</Name>
+      <Name>n</Name>
+      <Name> </Name>
+      <Name>L</Name>
+      <Name>a</Name>
+      <Name>s</Name>
+      <Name>s</Name>
+      <Name>e</Name>
+      <Name>t</Name>
+      <Name>e</Name>
+      <Name>r</Name>
+    </Director>
+    <Studio>Pixar Animation Studios</Studio>
+    <Year>1995</Year>
+  </Movie>
+</Movies>

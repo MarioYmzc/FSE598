@@ -1,0 +1,334 @@
+{
+    "Movies": [
+        {
+            "Movie": [
+                {
+                    "Title": "Coco"
+                },
+                {
+                    "Genre": "Animation"
+                },
+                {
+                    "Director": {
+                        "Name": "Lee Unkrich"
+                    }
+                },
+                {
+                    "Director": {
+                        "Name": "Adrian Molina"
+                    }
+                },
+                {
+                    "Studio": "Pixar Animation Studios"
+                },
+                {
+                    "Year": "2017"
+                }
+            ]
+        },
+        {
+            "Movie": [
+                {
+                    "Title": "Finding Nemo"
+                },
+                {
+                    "Genre": "Animation"
+                },
+                {
+                    "Director": {
+                        "Name": "Andrew Stanton"
+                    }
+                },
+                {
+                    "Director": {
+                        "Name": "Lee Unkrich"
+                    }
+                },
+                {
+                    "Studio": "Pixar Animation Studios"
+                },
+                {
+                    "Year": "2003"
+                }
+            ]
+        },
+        {
+            "Movie": [
+                {
+                    "Title": "Get Out"
+                },
+                {
+                    "Genre": "Horror"
+                },
+                {
+                    "Director": {
+                        "Name": "Jordan Peele"
+                    }
+                },
+                {
+                    "Studio": "Universal Pictures"
+                },
+                {
+                    "Year": "2017"
+                }
+            ]
+        },
+        {
+            "Movie": [
+                {
+                    "Title": "Gladiator"
+                },
+                {
+                    "Genre": "Action"
+                },
+                {
+                    "Director": {
+                        "Name": "Ridley Scott"
+                    }
+                },
+                {
+                    "Studio": "DreamWorks/Universal"
+                },
+                {
+                    "Year": "2000"
+                }
+            ]
+        },
+        {
+            "Movie": [
+                {
+                    "Title": "Her"
+                },
+                {
+                    "Genre": "Romance"
+                },
+                {
+                    "Director": {
+                        "Name": "Spike Jonze"
+                    }
+                },
+                {
+                    "Studio": "Warner Bros. Pictures"
+                },
+                {
+                    "Year": "2013"
+                }
+            ]
+        },
+        {
+            "Movie": [
+                {
+                    "Title": "Inception"
+                },
+                {
+                    "Genre": "Action"
+                },
+                {
+                    "Director": {
+                        "Name": "Christopher Nolan"
+                    }
+                },
+                {
+                    "Studio": "Warner Bros. Pictures"
+                },
+                {
+                    "Year": "2010"
+                }
+            ]
+        },
+        {
+            "Movie": [
+                {
+                    "Title": "Mad Max"
+                },
+                {
+                    "Genre": "Action"
+                },
+                {
+                    "Director": {
+                        "Name": "George Miller"
+                    }
+                },
+                {
+                    "Studio": "Warner Bros. Pictures"
+                },
+                {
+                    "Year": "2015"
+                }
+            ]
+        },
+        {
+            "Movie": [
+                {
+                    "Title": "Parasite"
+                },
+                {
+                    "Genre": "Drama"
+                },
+                {
+                    "Director": {
+                        "Name": "Bong Joon-ho"
+                    }
+                },
+                {
+                    "Studio": "CJ Entertainment"
+                },
+                {
+                    "Year": "2019"
+                }
+            ]
+        },
+        {
+            "Movie": [
+                {
+                    "Title": "Spirited Away"
+                },
+                {
+                    "Genre": "Animation"
+                },
+                {
+                    "Director": {
+                        "Name": "Hayao Miyazaki"
+                    }
+                },
+                {
+                    "Studio": "Studio Ghibli"
+                },
+                {
+                    "Year": "2001"
+                }
+            ]
+        },
+        {
+            "Movie": [
+                {
+                    "Title": "Superbad"
+                },
+                {
+                    "Genre": "Comedy"
+                },
+                {
+                    "Director": {
+                        "Name": "Greg Mottola"
+                    }
+                },
+                {
+                    "Studio": "Columbia Pictures"
+                },
+                {
+                    "Year": "2007"
+                }
+            ]
+        },
+        {
+            "Movie": [
+                {
+                    "Title": "The Dark Knight"
+                },
+                {
+                    "Genre": "Action"
+                },
+                {
+                    "Director": {
+                        "Name": "Christopher Nolan"
+                    }
+                },
+                {
+                    "Studio": "Warner Bros. Pictures"
+                },
+                {
+                    "Year": "2008"
+                }
+            ]
+        },
+        {
+            "Movie": [
+                {
+                    "Title": "The Grand Budapest Hotel"
+                },
+                {
+                    "Genre": "Comedy"
+                },
+                {
+                    "Director": {
+                        "Name": "Wes Anderson"
+                    }
+                },
+                {
+                    "Studio": "Fox Searchlight Pictures"
+                },
+                {
+                    "Year": "2014"
+                }
+            ]
+        },
+        {
+            "Movie": [
+                {
+                    "Title": "The Great Gatsby"
+                },
+                {
+                    "Genre": "Drama"
+                },
+                {
+                    "Director": {
+                        "Name": "Baz Luhrmann"
+                    }
+                },
+                {
+                    "Director": {
+                        "Name": "hello world"
+                    }
+                },
+                {
+                    "Studio": "Warner Bros. Pictures"
+                },
+                {
+                    "Year": "2013"
+                }
+            ]
+        },
+        {
+            "Movie": [
+                {
+                    "Title": "The Shining"
+                },
+                {
+                    "Genre": "Horror"
+                },
+                {
+                    "Director": {
+                        "Name": "Stanley Kubrick"
+                    }
+                },
+                {
+                    "Studio": "Warner Bros. Pictures"
+                },
+                {
+                    "Year": "1980"
+                }
+            ]
+        },
+        {
+            "Movie": [
+                {
+                    "Title": "Toy Story"
+                },
+                {
+                    "Genre": "Animation"
+                },
+                {
+                    "Director": {
+                        "Name": "John Lasseter"
+                    }
+                },
+                {
+                    "Studio": "Pixar Animation Studios"
+                },
+                {
+                    "Year": "1995"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+Title: The Great Gatsby
+Genre: Drama
+Director Name: Baz Luhrmann, hello world
+Studio: Warner Bros. Pictures
+Year: 2013
+
+Title: Inception
+Genre: Action
+Director Name: Christopher Nolan
+Studio: Warner Bros. Pictures
+Year: 2010
+
+Title: Spirited Away
+Genre: Animation
+Director Name: Hayao Miyazaki
+Studio: Studio Ghibli
+Year: 2001
+
+Title: Get Out
+Genre: Horror
+Director Name: Jordan Peele
+Studio: Universal Pictures
+Year: 2017
+
+Title: The Dark Knight
+Genre: Action
+Director Name: Christopher Nolan
+Studio: Warner Bros. Pictures
+Year: 2008
+
+Title: Toy Story
+Genre: Animation
+Director Name: John Lasseter
+Studio: Pixar Animation Studios
+Year: 1995
+
+Title: Parasite
+Genre: Drama
+Director Name: Bong Joon-ho
+Studio: CJ Entertainment
+Year: 2019
+
+Title: The Grand Budapest Hotel
+Genre: Comedy
+Director Name: Wes Anderson
+Studio: Fox Searchlight Pictures
+Year: 2014
+
+Title: Gladiator
+Genre: Action
+Director Name: Ridley Scott
+Studio: DreamWorks/Universal
+Year: 2000
+
+Title: Her
+Genre: Romance
+Director Name: Spike Jonze
+Studio: Warner Bros. Pictures
+Year: 2013
+
+Title: Coco
+Genre: Animation
+Director Name: Lee Unkrich
+Director Name: Adrian Molina
+Studio: Pixar Animation Studios
+Year: 2017
+
+Title: The Shining
+Genre: Horror
+Director Name: Stanley Kubrick
+Studio: Warner Bros. Pictures
+Year: 1980
+
+Title: Superbad
+Genre: Comedy
+Director Name: Greg Mottola
+Studio: Columbia Pictures
+Year: 2007
+
+Title: Mad Max: Fury Road
+Genre: Action
+Director Name: George Miller
+Studio: Warner Bros. Pictures
+Year: 2015
+
+Title: Finding Nemo
+Genre: Animation
+Director Name: Andrew Stanton
+Director Name: Lee Unkrich
+Studio: Pixar Animation Studios
+Year: 2003
